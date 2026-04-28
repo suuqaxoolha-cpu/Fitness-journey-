@@ -1,4 +1,5 @@
 Fitness & Nutrition Tracking App
+​🚀 Live Demo: https://peppy-salmiakki-1cb4ee.netlify.app/
 ​A comprehensive full-stack application designed to help users track their workouts and manage their daily nutrition effectively. This project showcases advanced frontend logic and a modern user interface.
 ​🛠️ Tech Stack
 ​Frontend: React.js & TypeScript
